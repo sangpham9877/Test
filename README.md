@@ -15,6 +15,9 @@
 ## Technologies
 - React native -- Axios -- Camera -- React hook -- Redux toolkit -- Youtube -- Track player -- Reanimated -- Firebase auth -- Notification -- Typescripts
 
+## Links
+- IOS: [https://apps.apple.com/us/app/khai-ph%C3%B3ng/id6502045780](https://apps.apple.com/us/app/khai-ph%C3%B3ng/id6502045780)
+- Android: [https://play.google.com/store/apps/details?id=com.flink.khaiphong](https://play.google.com/store/apps/details?id=com.flink.khaiphong)
 
 ## Screenshots
 
