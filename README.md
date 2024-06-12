@@ -1,6 +1,6 @@
 # Enhance concentration and improve health
 
-<img src="./screenshots/thumbnail.png" width=100%>
+<img src="./src/screenshots/thumbnail.png" width=100%>
 
 “Khai phóng” is an application that helps users relieve stress and improve concentration through meditation exercises. The application provides courses according to the roadmap, users can easily listen and manage lessons.
 
