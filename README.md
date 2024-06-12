@@ -4,11 +4,17 @@
 
 “Khai phóng” is an application that helps users relieve stress and improve concentration through meditation exercises. The application provides courses according to the roadmap, users can easily listen and manage lessons.
 
-- [GetStream](https://getstream.io/) for third party support chats and send message, gif, images
-- [Firebse](https://firebase.google.com/) for authentication, database.
-- [Tamagui](https://tamagui.dev/) for UI config
-- [Expo Router](https://docs.expo.dev/router/introduction/) for router.
-- [Lucide Icons](https://tamagui.dev/ui/lucide-icons/1.0.0) for icons
+## Main functions
+
+- Register an account
+- Buy paid courses (with QR)
+- Listen to meditation through audios
+- Payment history, learned history
+- Update account, comment, share,...
+
+## Technologies
+- React native -- Axios -- Camera -- React hook -- Redux toolkit -- Youtube -- Track player -- Reanimated -- Firebase auth -- Notification -- Typescripts
+
 
 ## Screenshots
 
@@ -25,7 +31,6 @@
 ## Demo
 
 <div style="display: flex; flex-direction: 'row';">
-<!-- <img src="./screenshots/register.gif" width=32%>
-<img src="./screenshots/profile.gif" width=32%>
-<img src="./screenshots/message.gif" width=32%> -->
+<img src="./src/screenshots/gif1.gif" width=32%>
+<img src="./src/screenshots/gif2.gif" width=32%>
 </div>
