@@ -37,3 +37,5 @@
 <img src="./src/screenshots/gif1.gif" width=32%>
 <img src="./src/screenshots/gif2.gif" width=32%>
 </div>
+
+<h6>To view source code, please contact email: sangphamvan.dev@gmail.com</h6>
